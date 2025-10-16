@@ -1,0 +1,12 @@
+ultralytics
+labelImg
+pyqt5
+lxml
+PyMuPDF
+opencv-python
+numpy
+tensorflow
+scikit-learn
+matplotlib
+streamlit
+python-chess
